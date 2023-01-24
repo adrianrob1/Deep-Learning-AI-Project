@@ -1,0 +1,3 @@
+"Name","rp_gen_algorithm","GPU Count","GPU Type","Train_Allocated_VRAM","Train_Free_VRAM","Train_Reserved_VRAM","Train_Total_VRAM"
+"sparkling-dream-13","sparse","1","Tesla T4","7540636672","13304832","7553941504","15843721216"
+"fearless-fog-12","sparse_coo","1","Tesla T4","1076584448","7186194432","8262778880","15843721216"
